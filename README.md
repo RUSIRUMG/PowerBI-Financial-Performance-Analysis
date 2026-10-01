@@ -59,7 +59,9 @@ The primary goal of this project was to transform raw financial transactional da
 
 ```
 
-├── Financial\_Performance\_Dashboard.pbix # Main Power BI Desktop Report File ├── Financials Dashboard 6.png # Executive Dashboard View Screenshot └── README.md # Detailed Project Documentation
+├── Financial\_Performance\_Dashboard.pbix # Main Power BI Desktop Report File
+├── Financials Dashboard 6.png # Executive Dashboard View Screenshot 
+└── README.md # Detailed Project Documentation
 
 ```
 
