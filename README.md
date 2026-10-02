@@ -11,7 +11,10 @@ An executive-ready Financial Overview &amp; P&amp;L Analytics Dashboard built us
 ![Financial Dashboard](financial%20dashboard%201.png)
 
 ### 🎬 Interactive Video Walkthrough
-
+<video width="100%" controls>
+  <source src="financial%20dashboard%20video%20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🎯 Project Objective
