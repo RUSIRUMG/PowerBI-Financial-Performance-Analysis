@@ -73,4 +73,15 @@ The primary goal of this project was to transform raw financial transactional da
 ├── financials dashboard 3.png           # Advanced Slicer View Screenshot
 ├── financial dashboard video .mp4       # Interactive Video Demo
 └── README.md                            # Detailed Project Documentation
+```
+
+---
+
+## 👤 Author
+
+**Rusiru Mihiranga**  
+*Aspiring Data Analyst | Business Intelligence & Power BI Developer*
+
+
+
 
