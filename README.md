@@ -67,11 +67,11 @@ The primary goal of this project was to transform raw financial transactional da
 
 ## 📁 Repository Structure
 
-
+---
 ├── 07) Financial Dashboard 2.pbix       # Main Power BI Desktop Report File
 ├── financial dashboard 1.png            # Default Executive View Screenshot
 ├── financials dashboard 2.png           # Filtered View Screenshot
 ├── financials dashboard 3.png           # Advanced Slicer View Screenshot
 ├── financial dashboard video .mp4       # Interactive Video Demo
 └── README.md                            # Detailed Project Documentation
-
+---
