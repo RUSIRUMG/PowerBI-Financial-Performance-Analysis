@@ -1,30 +1,33 @@
-
 # 📊 Executive Financial Performance Analytics | Power BI Project
 
-An executive-ready Financial Overview &amp; P&amp;L Analytics Dashboard built using Microsoft Power BI to evaluate Revenue, Cost of Goods Sold (COGS), Net Profitability, and Margin trends (2013–2014) for business decision-makers (CFO/CEO view).
+An executive-ready Financial Overview & P&L Analytics Dashboard built using Microsoft Power BI to evaluate Revenue, Cost of Goods Sold (COGS), Net Profitability, and Margin trends (2013–2014) for business decision-makers (CFO/CEO view).
 
 ---
 
-## 🎥 Dashboard Preview &amp; Demo
+## 📸 Dashboard Views & Interactive Demo
 
-### 📸 Executive Dashboard View
-![Financial Dashboard](financial%20dashboard%201.png)
+### 1️⃣ Executive Default View
+![Financial Dashboard 1](financial%20dashboard%201.png)
+
+### 2️⃣ Filtered View (Segment & Country Drill-down)
+![Financial Dashboard 2](financials%20dashboard%202.png)
+
+### 3️⃣ Advanced Slicer & Cross-Filtering View
+![Financial Dashboard 3](financials%20dashboard%203.png)
 
 ### 🎬 Interactive Video Walkthrough
-<video width="100%" controls>
-  <source src="financial%20dashboard%20video%20.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📥 Click here to watch/download the Video Demo](financial%20dashboard%20video%20.mp4)
+
 ---
 
 ## 🎯 Project Objective
-The primary goal of this project was to transform raw financial transactional data into actionable strategic insights. By establishing a robust data model and dynamic DAX measures, the dashboard enables leadership to monitor core P&amp;L performance, track monthly profit trends, and evaluate profitability across product segments and geographic locations.
+The primary goal of this project was to transform raw financial transactional data into actionable strategic insights. By establishing a robust data model and dynamic DAX measures, the dashboard enables leadership to monitor core P&L performance, track monthly profit trends, and evaluate profitability across product segments and geographic locations.
 
 ---
 
-## 💡 Key Strategic Insights &amp; Recommendations
+## 💡 Key Strategic Insights & Recommendations
 
-1. **Enterprise Segment Turnaround (Cost &amp; Discount Control):** 
+1. **Enterprise Segment Turnaround (Cost & Discount Control):** 
    - *Finding:* Generated over \$4M+ in gross revenue but incurred an overall net loss with a **-4.78% Profit Margin**.
    - *Action:* Re-evaluate high-discount strategies and cost structures in Enterprise contracts to mitigate margin leakage.
 
@@ -41,12 +44,12 @@ The primary goal of this project was to transform raw financial transactional da
 
 ---
 
-## 🛠️ Technical Implementation &amp; Architecture
+## 🛠️ Technical Implementation & Architecture
 
 ### 1. Data Modeling (Star Schema)
 - Created a dedicated **`Dim_Date`** table using DAX (`CALENDARAUTO()`).
 - Established clean **1-to-Many single-direction relationships** between `Dim_Date` and the fact table.
-- Resolved alphabetical month-sorting issues using `Sort by Column` (`Month Number` &amp; `YearMonthKey`).
+- Resolved alphabetical month-sorting issues using `Sort by Column` (`Month Number` & `YearMonthKey`).
 
 ### 2. Core DAX Measures Used
 - **Total Sales:** `SUM(financials[Sales])`
@@ -65,17 +68,10 @@ The primary goal of this project was to transform raw financial transactional da
 ## 📁 Repository Structure
 
 '''
-
-├── 07) Financial Dashboard 2.pbix # Main Power BI Desktop Report File
-├── financial dashboard 1.png # Executive Dashboard View Screenshot
-├── financial dashboard video .mp4 # Interactive Video Demo
-└── README.md # Detailed Project Documentation
-
+├── 07) Financial Dashboard 2.pbix       # Main Power BI Desktop Report File
+├── financial dashboard 1.png            # Default Executive View Screenshot
+├── financials dashboard 2.png           # Filtered View Screenshot
+├── financials dashboard 3.png           # Advanced Slicer View Screenshot
+├── financial dashboard video .mp4       # Interactive Video Demo
+└── README.md                            # Detailed Project Documentation
 '''
-
----
-
-## 👤 Author
-Developed by an aspiring Data Analyst focusing on Business Intelligence, Financial Modeling, and Data Storytelling.
-
-```
