@@ -1,12 +1,16 @@
-```
+
 # 📊 Executive Financial Performance Analytics | Power BI Project
 
-An executive-ready Financial Overview Dashboard built using Microsoft Power BI to evaluate Revenue, Cost of Goods Sold (COGS), Net Profitability, and Margin trends (2013–2014) for business decision-makers (CFO/CEO view).
+An executive-ready Financial Overview &amp; P&amp;L Analytics Dashboard built using Microsoft Power BI to evaluate Revenue, Cost of Goods Sold (COGS), Net Profitability, and Margin trends (2013–2014) for business decision-makers (CFO/CEO view).
 
 ---
 
-## 📸 Dashboard Overview
-![Financial Dashboard](Financials%20Dashboard%206.png)
+## 🎥 Dashboard Preview &amp; Demo
+
+### 📸 Executive Dashboard View
+![Financial Dashboard](financial%20dashboard%201.png)
+
+### 🎬 Interactive Video Walkthrough
 
 ---
 
@@ -30,7 +34,7 @@ The primary goal of this project was to transform raw financial transactional da
    - *Action:* Maintain strong delivery standards to preserve baseline stability.
 
 4. **Discount Policy Optimization:** 
-   - *Finding:* Cross-filtering indicates that higher discount bands severely compress overall margins across flagship products (Paseo, Velo).
+   - *Finding:* Visual analysis indicates that higher discount bands severely compress overall margins across flagship products (Paseo, Velo).
 
 ---
 
@@ -48,10 +52,10 @@ The primary goal of this project was to transform raw financial transactional da
 - **Profit Margin %:** `DIVIDE([Total Profit], [Total Sales], 0)`
 
 ### 3. Executive UX/UI Features
-- **Left Navigation Sidebar Architecture: ** Clean, modern enterprise layout for controls.
-- **Drill-down Hierarchy Matrix: ** Segment-to-Country breakdown with Conditional Formatting (Data Bars for volume, Heatmaps for margins).
-- **Interactive Visuals: ** Monthly line trend, Product comparison bar charts, and Country Profit Share Donut Chart.
-- **Reset View Bookmark: ** One-click reset functionality clearing both slicers and visual cross-filtering states.
+- **Left Navigation Sidebar Architecture:** Clean, modern enterprise layout for controls and slicers.
+- **Drill-down Hierarchy Matrix:** Segment-to-Country breakdown with Conditional Formatting (Data Bars for volume, Heatmaps for margins).
+- **Interactive Visuals:** Monthly line trend, Product comparison bar charts, and Country Profit Share Donut Chart.
+- **Reset View Bookmark:** One-click reset functionality clearing both slicers and visual cross-filtering states.
 
 ---
 
@@ -59,8 +63,9 @@ The primary goal of this project was to transform raw financial transactional da
 
 '''
 
-├── Financial\_Performance\_Dashboard.pbix # Main Power BI Desktop Report File
-├── Financials Dashboard 1.png # Executive Dashboard View Screenshot 
+├── 07) Financial Dashboard 2.pbix # Main Power BI Desktop Report File
+├── financial dashboard 1.png # Executive Dashboard View Screenshot
+├── financial dashboard video .mp4 # Interactive Video Demo
 └── README.md # Detailed Project Documentation
 
 '''
@@ -69,4 +74,5 @@ The primary goal of this project was to transform raw financial transactional da
 
 ## 👤 Author
 Developed by an aspiring Data Analyst focusing on Business Intelligence, Financial Modeling, and Data Storytelling.
+
 ```
