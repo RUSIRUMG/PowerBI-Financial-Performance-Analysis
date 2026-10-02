@@ -10,10 +10,10 @@ An executive-ready Financial Overview & P&L Analytics Dashboard built using Micr
 ![Financial Dashboard 1](financial%20dashboard%201.png)
 
 ### 2️⃣ Filtered View (Segment & Country Drill-down)
-![Financial Dashboard 2](financials%20dashboard%202.png)
+![Financial Dashboard 1](financial%20dashboard%202.png)
 
 ### 3️⃣ Advanced Slicer & Cross-Filtering View
-![Financial Dashboard 3](financials%20dashboard%203.png)
+![Financial Dashboard 1](financial%20dashboard%203.png)
 
 ### 🎬 Interactive Video Walkthrough
 [📥 Click here to watch/download the Video Demo](financial%20dashboard%20video%20.mp4)
