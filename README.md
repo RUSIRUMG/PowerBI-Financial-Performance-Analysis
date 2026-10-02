@@ -48,10 +48,10 @@ The primary goal of this project was to transform raw financial transactional da
 - **Profit Margin %:** `DIVIDE([Total Profit], [Total Sales], 0)`
 
 ### 3. Executive UX/UI Features
-- **Left Navigation Sidebar Architecture:** Clean, modern enterprise layout for controls.
-- **Drill-down Hierarchy Matrix:** Segment-to-Country breakdown with Conditional Formatting (Data Bars for volume, Heatmaps for margins).
-- **Interactive Visuals:** Monthly line trend, Product comparison bar charts, and Country Profit Share Donut Chart.
-- **Reset View Bookmark:** One-click reset functionality clearing both slicers and visual cross-filtering states.
+- **Left Navigation Sidebar Architecture: ** Clean, modern enterprise layout for controls.
+- **Drill-down Hierarchy Matrix: ** Segment-to-Country breakdown with Conditional Formatting (Data Bars for volume, Heatmaps for margins).
+- **Interactive Visuals: ** Monthly line trend, Product comparison bar charts, and Country Profit Share Donut Chart.
+- **Reset View Bookmark: ** One-click reset functionality clearing both slicers and visual cross-filtering states.
 
 ---
 
@@ -60,7 +60,7 @@ The primary goal of this project was to transform raw financial transactional da
 '''
 
 ├── Financial\_Performance\_Dashboard.pbix # Main Power BI Desktop Report File
-├── Financials Dashboard 6.png # Executive Dashboard View Screenshot 
+├── Financials Dashboard 1.png # Executive Dashboard View Screenshot 
 └── README.md # Detailed Project Documentation
 
 '''
