@@ -80,4 +80,11 @@ As part of my ongoing journey to learn Data Analytics and Business Intelligence,
 ## 💬 Feedback &amp; Continuous Learning
 Since I am actively building my skills in Power BI, DAX, and Data Modeling, I know there is always room for improvement and optimization. If you have any feedback, suggestions, or constructive critiques, please feel free to open an issue or connect with me! 💡
 
-```
+---
+
+## 👤 Author
+
+**Rusiru Mihiranga**  
+*Aspiring Data Analyst | Business Intelligence & Power BI Developer*
+
+
