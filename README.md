@@ -68,7 +68,10 @@ As part of my ongoing journey to learn Data Analytics and Business Intelligence,
 
 ```
 
-├── 07) Financial Dashboard 2.pbix # Power BI Desktop Report File ├── financial dashboard 1.png # Dashboard View Screenshot ├── financial dashboard video .mp4 # Interactive Video Demo └── README.md # Detailed Project Documentation
+├── 07) Financial Dashboard 2.pbix # Power BI Desktop Report File 
+├── financial dashboard 1.png # Dashboard View Screenshot 
+├── financial dashboard video .mp4 # Interactive Video Demo 
+└── README.md # Detailed Project Documentation
 
 ```
 
